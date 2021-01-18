@@ -1,4 +1,16 @@
 # Created by .ignore support plugin (hsz.mobi)
+
+# Model files
+*.json
+*.tflite
+*checkpoint
+*ap_ar_data.txt
+*.ckpt.data-00000-of-00001
+*.ckpt.index
+*.pb
+
+idea/
+
 ### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
