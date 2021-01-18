@@ -1,0 +1,1 @@
+Takes place to force git to add a directory.
