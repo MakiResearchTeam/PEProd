@@ -1,0 +1,5 @@
+numpy>=1.19.1
+tensorflow==2.4.0
+scipy==1.5.2
+setuptools==49.6.0
+git+git://github.com/MakiResearchTeam/PETools.git#egg=petools
